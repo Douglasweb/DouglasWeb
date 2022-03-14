@@ -2,7 +2,7 @@
 
 ## Hello 👋👋 I am Douglas!  
 I am a developer who is passionate about what i do!
-- 💻 Currently working at Bitpagg, learning and growing my skillset, competitive coding and algorithms.
+- 💻 Currently working at BRF, learning and growing my skillset, competitive coding and algorithms.
 
 ## 🧰 Languages and Tools:
 <p align="center">
